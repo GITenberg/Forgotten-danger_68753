@@ -1,0 +1,28 @@
+_repo: Forgotten-danger_68753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morrison, William Douglas
+    alias: Morrison, W. D. (William Douglas)
+    birthdate: 1852
+    deathdate: 1943
+    gutenberg_agent_id: '6305'
+    url: http://www.gutenberg.org/2009/agents/6305
+description: ''
+gutenberg_issued: '2022-08-15'
+identifiers:
+  gutenberg: '68753'
+language: en
+pgterms:marc905: 20220526161909morrison
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Future Publications, Inc.,1953.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Forgotten danger
+url: http://www.gutenberg.org/ebooks/68753
